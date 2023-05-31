@@ -10,4 +10,4 @@
 ![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/blob/master/everybranch.png?raw=true)
   
 5. 
-![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/assets/126726159/d3344c3d-2385-42e9-ace0-61a8846a4695)
+![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/blob/master/multiplecondition.png?raw=true)

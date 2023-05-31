@@ -9,4 +9,5 @@
 4. 
 ![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/assets/126726159/38948693-f9c4-4e42-9c1b-b5664063eab4)
   
-5. ![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/assets/126726159/d3344c3d-2385-42e9-ace0-61a8846a4695)
+5. 
+![image](https://github.com/AndrejTasevski/SI_2023_lab2_216046/assets/126726159/d3344c3d-2385-42e9-ace0-61a8846a4695)
